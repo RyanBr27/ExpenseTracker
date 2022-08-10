@@ -1,2 +1,2 @@
 # ExpenseTracker
-Expense Tracker System that allows users to manage their monthly cashflow to determine their savings pattern. 
+Expense Tracker System that allows users to manage monthly cashflow by recording daily transactions and monthly income to determine how much money in being spent in a given spending category. 
